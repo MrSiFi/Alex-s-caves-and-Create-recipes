@@ -1,0 +1,13 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:dough"
+    }
+  ],
+  "results": [
+    {
+      "item": ""
+    }
+  ]
+}

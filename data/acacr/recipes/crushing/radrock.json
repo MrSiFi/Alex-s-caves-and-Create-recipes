@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:radrock"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "chance": 0.125,
+      "item": "alexscaves:toxic_paste"
+    }
+  ]
+}

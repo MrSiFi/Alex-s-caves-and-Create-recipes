@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "alexscaves:flood_basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:primal_magma"
+    }
+  ]
+}

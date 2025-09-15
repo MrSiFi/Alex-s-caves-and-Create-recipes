@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:radrock_uranium_ore"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count":1,
+      "item": "create:crushed_raw_uranium"
+    },
+    {
+      "chance": 0.75,
+      "count":1,
+      "item": "create:crushed_raw_uranium"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "alexscaves:radrock"
+    }
+  ]
+}

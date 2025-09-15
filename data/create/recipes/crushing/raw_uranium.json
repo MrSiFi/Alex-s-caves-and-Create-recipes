@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:uranium"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+  ]
+}

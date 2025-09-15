@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:amber"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 7,
+      "item": "alexscaves:pewen_sap"
+    },
+    {
+      "count": 1,
+      "chance": 0.5,
+      "item": "alexscaves:amber_curiosity"
+    }
+  ]
+}
