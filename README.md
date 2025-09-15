@@ -1,5 +1,7 @@
 A small datapack for Create recipes using items from Alex's caves. The recipes are made according to my vision of balance, not allowing you to get unique cave items using Create.
 There are recipes that cannot be made without using Create. Have a nice game. Link to the datapack - https://modrinth.com/datapack/alexs-caves-and-create-recipes
+
+Below are examples of changes
 <img width="463" height="347" alt="0ad35ac098d58180b60d8407f9f6828612f8ee79" src="https://github.com/user-attachments/assets/8a0852d1-f7e7-4816-9a99-cf4f1fd59b66" />
 Crushed raw uranium
 <img width="459" height="361" alt="27f547bded9146f10e8fbc701ba252e608ddf1d8" src="https://github.com/user-attachments/assets/6de25783-e3f0-4d37-99d9-7a9bd5f83ea4" />
