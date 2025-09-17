@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "count": 5 ,
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "count": 4 ,
+      "item": "create:powdered_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:abyssmarine"
+    }
+  ]
+}

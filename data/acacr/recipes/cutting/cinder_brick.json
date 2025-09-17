@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "alexscaves:concrete"
+    }
+  ],
+  "results": [
+    {
+      "count":2,
+      "item": "alexscaves:cinder_brick"
+    }
+  ]
+}
