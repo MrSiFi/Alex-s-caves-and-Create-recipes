@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 1000,
+      "fluid": "create:honey"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "fluid": "brewinandchewin:honey"
+    }
+  ]
+}

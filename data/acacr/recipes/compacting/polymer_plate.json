@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "alexscaves:toxic_paste"
+    },    
+    {
+      "item": "alexscaves:radon_bottle"
+    },
+    {
+      "item": "alexscaves:sulfur_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:polymer_plate"
+    }
+  ]
+}

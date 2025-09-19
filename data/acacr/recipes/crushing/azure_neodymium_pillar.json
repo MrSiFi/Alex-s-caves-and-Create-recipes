@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:azure_neodymium_pillar"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 5,
+      "item": "alexscaves:raw_azure_neodymium"
+    }
+  ]
+}

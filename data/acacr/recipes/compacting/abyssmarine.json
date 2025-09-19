@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "count": 2 ,
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "amount": 200,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:abyssmarine"
+    }
+  ]
+}
