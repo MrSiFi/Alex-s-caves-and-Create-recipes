@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "alexscaves:block_of_frosting"
+    },
+    {
+      "item": "alexscaves:block_of_chocolate"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "alexscaves:block_of_frosted_chocolate"
+    }
+  ]
+}

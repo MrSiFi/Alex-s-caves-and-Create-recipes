@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "alexscaves:gauno_block"
+    },
+    {
+      "item": "alexscaves:gaunostone"
+    }
+  ],
+  "results": [
+    {
+      "count":2,
+      "item": "alexscaves:coprolith"
+    }
+  ]
+}

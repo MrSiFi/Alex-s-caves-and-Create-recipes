@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create:limestone"
+    },
+    {
+      "item": "alexscaves:amber"
+    },
+    {
+      "item": "alexscaves:amber"
+    },
+    {
+      "amount": 200,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:limestone"
+    }
+  ]
+}

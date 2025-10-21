@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:dough"
+    },
+    {
+      "item": "create:dough"
+    },
+    {
+      "item": "create:dough"
+    },
+    {
+      "item": "create:dough"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 1,
+      "item": "alexscaves:dough_block"
+    }
+  ]
+}

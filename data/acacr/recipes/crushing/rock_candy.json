@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "alexscaves:rock_candies"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:sugar"
+    }
+  ]
+}

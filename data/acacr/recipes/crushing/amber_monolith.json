@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:amder_monolith"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 4,
+      "item": "alexscaves:pewen_sap"
+    },
+    {
+      "chance": 0.10,
+      "count":1,
+      "item": "alexscaves:amder_curiosity"
+    },
+    {
+      "chance": 0.10,
+      "count":1,
+      "item": "minecraft:diamond"
+    }
+  ]
+}

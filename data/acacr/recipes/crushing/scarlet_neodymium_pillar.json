@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:scarlet_neodymium_pillar"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 5,
+      "item": "alexscaves:raw_scarlet_neodymium"
+    }
+  ]
+}

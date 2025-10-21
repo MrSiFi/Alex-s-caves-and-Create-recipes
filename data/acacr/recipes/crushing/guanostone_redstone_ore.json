@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:guanostone_redstone_ore"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count":8,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.75,
+      "count":4,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "alexscaves:guanostone"
+    }
+  ]
+}

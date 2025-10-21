@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:guanostone"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "chance": 0.5,
+      "item": "alexscaves:guanostone"
+    },
+    {
+      "count": 1,
+      "chance": 0.1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

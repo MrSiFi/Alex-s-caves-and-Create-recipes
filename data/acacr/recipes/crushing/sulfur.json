@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alexscaves:sulfur"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 6,
+      "item": "alexscaves:sulfur_dust"
+    }
+  ]
+}
